@@ -1,12 +1,16 @@
+Nama
 # Salman Fauzi
 
-### Hobi
+Provisi & Kota
+Jawa tengah Kota Tegal
 
-- Digital marketing
-- Coding
+Sekolah / Akademik
+SMK Al-Irsyad Kota Tegal
 
-### Bahasa Pemograman
-
-- C++
-- Java
-- Html,CSS,php
+Hobi
+Digital marketing
+Bahasa Pemograman
+Project
+Web design
+Profile Link
+Kutipanfiksi.blogspot.com
