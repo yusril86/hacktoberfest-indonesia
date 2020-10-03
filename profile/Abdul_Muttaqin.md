@@ -14,7 +14,6 @@ Institut Agama Islam Nasional LaaRoiba
 
 - Main game.
 - Ngoding.
-- Baca qur'an
 
 ### Bahasa Pemograman
 
