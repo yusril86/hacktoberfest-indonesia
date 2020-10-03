@@ -2,15 +2,23 @@ Nama
 # Salman Fauzi
 
 Provisi & Kota
-Jawa tengah Kota Tegal
+
+# Jawa tengah Kota Tegal
 
 Sekolah / Akademik
-SMK Al-Irsyad Kota Tegal
+
+# SMK Al-Irsyad Kota Tegal
 
 Hobi
-Digital marketing
-Bahasa Pemograman
+
+# Digital marketing
+
+# Bahasa Pemograman
+
 Project
-Web design
+
+# Web design
+
 Profile Link
-Kutipanfiksi.blogspot.com
+
+# Kutipanfiksi.blogspot.com
