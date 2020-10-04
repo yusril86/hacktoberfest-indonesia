@@ -1,6 +1,6 @@
 # Nama
 
-<img src="http://berkahkaltimlukis.com/gambar/slide/IMG_20200919_233147_859.jpg" width="200" height=200" align="center"/>
+<img src="http://berkahkaltimlukis.com/gambar/slide/IMG_20200919_233147_859.jpg" width="200" height="200" align="center"/>
 ### Provisi & Kota
 
 Jawa Timur, Mojokerto
