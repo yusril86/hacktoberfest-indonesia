@@ -29,7 +29,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 
 ----
 
-## Bagaimana
+## Bagaimana cara berkontribusi di Repository github ?
 
 Berikut langkah-langkahnya secara singkat:
 
