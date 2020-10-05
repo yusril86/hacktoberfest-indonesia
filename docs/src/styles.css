@@ -1,0 +1,105 @@
+body {
+    font-family: sans-serif;
+    background-color: #008581;
+  }
+  
+  .contributor {
+    padding: 10px;
+    width: 120px;
+    display: inline-block;
+  }
+
+  #app{
+      color: white;
+  }
+
+.circle {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 30px solid black;
+  animation-name: rotate;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.square {
+  height: 30px;
+  width: 30px;
+  background-color: black;
+  border-radius: 3px;
+  position: relative;
+}
+
+.squareOne {
+  background-color: black;
+  left: 35px;
+  bottom: 48px;
+}
+.squareTwo {
+  background-color: black;
+  left: 94px;
+  bottom: 54px;
+  transform: rotate(-40deg);
+}
+.squareThree {
+  background-color: black;
+  bottom: 83px;
+  right: 26px;
+  transform: rotate(40deg);
+}
+.squareFour {
+  background-color: black;
+  bottom: 56px;
+  left: 116px;
+}
+.squareFive {
+  background-color: black;
+  bottom: 86px;
+  right: 48px;
+}
+.squareSix {
+  background-color: black;
+  bottom: 62px;
+  left: 98px;
+  transform: rotate(132deg);
+}
+.squareSeven {
+  background-color: black;
+  bottom: 88px;
+  right: 26px;
+  transform: rotate(-132deg);
+}
+.squareEight {
+  background-color: black;
+  bottom: 94px;
+  left: 37px;
+}
+.loadingBar {
+  height: 20px;
+  width: 300px;
+  border-radius: 6px;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+}
+.load {
+  background-color: black;
+  width: 0%;
+  height: 100%;
+  animation-name: loading;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes loading {
+  100% {
+    width: 100%;
+  }
+}
