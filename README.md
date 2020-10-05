@@ -12,7 +12,20 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 1 oktober hingga 31 oktober . acara tahun ini di jalankan oleh digital ocean , github dan dev.to . target dari acara ini adalah peserta dapat melakukan 4 pull request di antara tanggal 1 hingga 31 oktober 2020.
 
 
-# Berkontribusi di Proyek git
+# Berkontribusi di Repository Ini
+
+- Silahkan klik `TEMPLATE_BIO.md` kemudian klik edit
+
+- Lalu isi biodata kalian masing masing
+
+- Copy semua kode template yang kalian isi tadi 
+
+- Buka folder `profile` di repository ini
+ kemudian klik titik 3 disamping kanan dan klik `Create New File`
+
+- Beri nama file nya `Namamu.md` dan Pastekan kode Markdown yang tadi sudah di copy
+
+- Selamat mengikuti Hacktoberfest 🌠
 
 ----
 
