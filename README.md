@@ -1,5 +1,4 @@
-# Hacktoberfest 
-
+# Hacktoberfest Indonesia
 
 <img alt="HF2020" src="https://user-images.githubusercontent.com/43699825/91566556-7e66fe80-e961-11ea-97d4-0195c6b479ba.png">
 <a href="https://hacktoberfest.digitalocean.com/">Event Hacktoberfest 2020</a>
@@ -28,7 +27,13 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 - Selamat mengikuti Hacktoberfest 🌠
 
 ----
+## Kontributor List
 
+Kalian bisa melihat kontributor dan Bio kalian sendiri disini
+
+<a href="https://hacktoberfest-1.gitbook.io/hacktoberfest/v/main/profile"/> Kontributor List</a>
+
+----
 ## Bagaimana cara berkontribusi di Repository github ?
 
 Berikut langkah-langkahnya secara singkat:
