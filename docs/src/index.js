@@ -27,7 +27,7 @@ function showContributor() {
             data.forEach((contributor) => {
                 template.innerHTML += `<div class="contributor">
         <a href="${contributor.html_url}" target="_blank">
-          <img src="${contributor.avatar_url}" width="100px" height="100px" />
+          <img src="${contributor.avatar_url}" width="100px" class="img-fluid rounded-circle" height="100px" />
         </a>
         <br>
          @${contributor.login}
@@ -46,7 +46,7 @@ const setBg = () => {
     randomColor = "f0f0f0"
   }
   document.body.style.backgroundColor = "#" + randomColor;
-  alert(randomColor);
+  
 }
 setBg();
 showContributor();
