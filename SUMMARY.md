@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [](README.md)
 
 ## Features
 
-* [Kontributor](profile/)
+* [Kontributor](profile)
