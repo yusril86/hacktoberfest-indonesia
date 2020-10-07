@@ -4,4 +4,4 @@
 
 ## Features
 
-* [Kontributor](profile)
+* [Kontributor](./profile/)
