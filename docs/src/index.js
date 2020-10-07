@@ -46,7 +46,7 @@ const setBg = () => {
     randomColor = "f0f0f0"
   }
   document.body.style.backgroundColor = "#" + randomColor;
-  alert(randomColor);
+  
 }
 setBg();
 showContributor();
