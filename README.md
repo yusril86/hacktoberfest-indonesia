@@ -31,7 +31,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
 
 Kalian bisa melihat kontributor dan Bio kalian sendiri disini
 
-<a href="https://hacktoberfest-1.gitbook.io/hacktoberfest/v/main/profile"/> Kontributor List</a>
+<a href="https://fdciabdul.github.io/hacktoberfest-indonesia/"/> Kontributor List</a>
 
 ----
 ## Bagaimana cara berkontribusi di Repository github ?
